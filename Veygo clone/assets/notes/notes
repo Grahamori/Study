@@ -2,3 +2,17 @@ https://www.veygo.com/wp-content/uploads/2020/01/lines.svg is background top
 
 https://www.veygo.com/wp-content/uploads/2020/01/helpceter@2.1x.png background bottom
 
+https://www.veygo.com/wp-content/uploads/2021/07/Veygo-x-Admiral-logo.svg main logo
+
+
+menu font graphie, sans serif 800 weight
+body fonts , roboto and roboto slab 400, 500 and 600
+
+    --e-global-color-primary: #6ec1e4;
+    --e-global-color-secondary: #54595f;
+    --e-global-color-text: #7a7a7a;
+    --e-global-color-accent: #61ce70;
+    --e-global-color-5e611af0: #4054b2;
+    --e-global-color-19c0e45e: #23a455;
+    --e-global-color-3a29036c: #000;
+    --e-global-color-6b372223: #fff;
